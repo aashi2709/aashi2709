@@ -1,6 +1,6 @@
 ###
 
-```markdown
+
 <h1 align="center">Hi, I'm Aashi 👋</h1>
 
 > I like understanding systems more than using them.
