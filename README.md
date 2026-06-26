@@ -1,16 +1,9 @@
 ###
-
+<p align="center">
+  <img src="banner.png" alt="GitHub Banner" />
+</p>
 <div align="center">
 
-# Aashi Raghuvanshi
-
-### Engineer • Builder • Explorer
-
-*Building with curiosity. Learning without boundaries.*
-
-</div>
-
----
 
 ## About
 
