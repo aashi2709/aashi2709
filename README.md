@@ -1,54 +1,56 @@
 ###
-<h1 align="center">Hi 👋, I'm Aashi Raghuvanshi</h1>
+
+<h1 align="center">Hi, I'm Aashi 👋</h1>
 
 <p align="center">
-Building AI systems that make knowledge searchable, connected, and useful.
+I love building things that solve real problems.
 </p>
 
 <p align="center">
-Data Science Student • AI/ML Engineer • Backend Developer
+AI • Backend • System Design • Machine Learning • Full-Stack • Cloud
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧠 Building production-grade **LLM & RAG** applications
-- ⚙️ Engineering scalable backends with **FastAPI** & **Python**
-- 🌐 Exploring **Knowledge Graphs**, **AI Agents**, and intelligent retrieval
-- 📚 Always learning by building real-world products
+I'm a Data Science student who enjoys turning ideas into products.
+
+Whether it's an AI application, a scalable backend, a full-stack project, or a system architecture challenge, I'm always curious about how things work under the hood and how they can be built better.
+
+Currently exploring everything from intelligent systems and distributed architectures to cloud, databases, and software engineering.
 
 ---
 
-### 🛠 Tech Stack
+### ⚡ Tech I Enjoy
 
-**Languages:** Python • SQL • JavaScript
+`Python` • `FastAPI` • `JavaScript` • `SQL` • `PostgreSQL`
 
-**AI/ML:** LLMs • RAG • LangChain • spaCy • Sentence Transformers
+`Docker` • `Redis` • `Git` • `Linux`
 
-**Backend:** FastAPI • PostgreSQL • Docker • Redis
+`Machine Learning` • `LLMs` • `RAG` • `Knowledge Graphs`
 
-**Search:** Elasticsearch • Qdrant • Neo4j
-
-**Tools:** Git • Linux • Postman
+Always adding something new to this list.
 
 ---
 
-### 🌟 Current Focus
+### 🌱 Currently Building
 
-> Building **KnowForge**  
-> An AI-powered knowledge platform that transforms documentation, code, and project artifacts into an intelligent, searchable workspace.
+🧠 **KnowForge**  
+An intelligent platform that transforms scattered project knowledge into connected, searchable information.
 
 ---
 
-### 📈 GitHub Stats
+### 💭 What Excites Me
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+- Building products from scratch
+- Designing scalable systems
+- Learning new technologies
+- Solving engineering problems
+- Open Source
+- Turning coffee into code ☕
 
-<p align="center">
-<i>"Curiosity builds prototypes. Engineering builds products."</i>
-</p>
+---
+
+> *"The best way to learn is to build."*
 ```
