@@ -12,4 +12,3 @@ I don't like being defined by a single stack or domain. Today it might be backen
 I believe great engineers aren't measured by the number of technologies they know, but by how quickly they can learn, adapt, and build with whatever comes next.
 
 **Learning relentlessly. Building thoughtfully. Never settling for "it just works."**
-```
